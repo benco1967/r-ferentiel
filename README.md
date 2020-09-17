@@ -1,2 +1,2 @@
 # Référentiel
-Voir le wiki
+Voir le [wiki](https://github.com/benco1967/referentiel/wiki)
